@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @twilight411
-- 👀 I’m interested in getting higher gpa
-- 🌱 I’m currently learning cpp
+- 👀 I’m interested in  learning fun programming languages for interesting course projects
+- 🌱 I’m currently learning cpp，Java,python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 3783176275@qq.com
 - 😄 Pronouns: zyx
